@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp"
+        android:orientation="horizontal">
+
+        <EditText
+            android:layout_width="120dp"
+            android:layout_height="match_parent"
+            android:background="#f2064d"/>
+
+        <LinearLayout
+            android:layout_width="140dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="#59baca"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="#1319c7"/>
+        </LinearLayout>
+
+        <EditText
+            android:layout_width="130dp"
+            android:layout_height="match_parent"
+            android:background="#f44949"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp">
+
+        <EditText
+            android:layout_width="60dp"
+            android:layout_height="match_parent"
+            android:background="#7ff449"/>
+
+        <EditText
+            android:layout_width="130dp"
+            android:layout_height="match_parent"
+            android:background="#be4cb4"/>
+
+        <LinearLayout
+            android:layout_width="200dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="#52b6c7"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="#1319c7"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp">
+
+        <EditText
+            android:layout_width="120dp"
+            android:layout_height="match_parent"
+            android:background="#f44949"/>
+
+        <EditText
+            android:layout_width="140dp"
+            android:layout_height="match_parent"
+            android:background="#227014"/>
+
+        <EditText
+            android:layout_width="65dp"
+            android:layout_height="match_parent"
+            android:background="#790202"/>
+
+        <EditText
+            android:layout_width="65dp"
+            android:layout_height="match_parent"
+            android:background="#ceb45e"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp">
+
+        <EditText
+            android:layout_width="100dp"
+            android:layout_height="match_parent"
+            android:background="#d9e43f"/>
+
+        <LinearLayout
+            android:layout_width="150dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="#52b6c7"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="#317c89"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="#811a14"/>
+
+        </LinearLayout>
+
+        <EditText
+            android:layout_width="140dp"
+            android:layout_height="match_parent"
+            android:background="#d9e43f"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="90dp">
+
+        <EditText
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:background="#d6a5e7"/>
+
+        <LinearLayout
+            android:layout_width="130dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:background="#3c8c3d"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:background="#3e6a71"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="#bf52c7"/>
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:background="#1319c7"/>
+        </LinearLayout>
+
+        <EditText
+            android:layout_width="80dp"
+            android:layout_height="match_parent"
+            android:background="#430259"/>
+
+    </LinearLayout>
+
+</LinearLayout>
